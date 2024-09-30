@@ -1,0 +1,184 @@
+{
+    "cheats": {
+        "Money Cheats": [
+            {
+                "cheat": "kaching",
+                "effect": "Adds §1,000 to household funds."
+            },
+            {
+                "cheat": "rosebud",
+                "effect": "Adds §1,000 to household funds."
+            },
+            {
+                "cheat": "motherlode",
+                "effect": "Adds §50,000 to household funds."
+            },
+            {
+                "cheat": "money [amount]",
+                "effect": "Lets you set a specific amount for household funds."
+            }
+        ],
+        "Career and School Cheats": [
+            {
+                "cheat": "Careers.add_career [NameOfCareer]",
+                "effect": "Adds career to selected Sim."
+            },
+            {
+                "cheat": "Careers.remove_career [NameOfCareer]",
+                "effect": "Removes career from selected Sim."
+            },
+            {
+                "cheat": "Careers.promote Gradeschool",
+                "effect": "Raises child's school performance one letter grade."
+            },
+            {
+                "cheat": "Careers.promote Highschool",
+                "effect": "Raises teen's school performance one letter grade."
+            }
+        ],
+        "Skill and Aspiration Cheats": [
+            {
+                "cheat": "Aspirations.complete_current_milestone",
+                "effect": "Completes a Sim's current aspiration challenge and awards points."
+            },
+            {
+                "cheat": "stats.set_skill_level major_[skill] [#]",
+                "effect": "Raises a skill for selected Sim, max the skill by entering 10."
+            },
+            {
+                "cheat": "stats.set_skill_level skill_child_[skill] [#]",
+                "effect": "Gives a child a specific number in a skill."
+            },
+            {
+                "cheat": "stats.set_skill_level statistic_skill_toddler_[skill] [#]",
+                "effect": "Gives a toddler a specific number in a skill."
+            },
+            {
+                "cheat": "sims.give_satisfaction_points [#]",
+                "effect": "Gives specific number of satisfaction points to a Sim, which you can use to buy rewards."
+            }
+        ],
+        "Relationship Cheats": [
+            {
+                "cheat": "relationship.introduce_sim_to_all_others",
+                "effect": "Makes acquaintances with all Sims (takes a moment)."
+            },
+            {
+                "cheat": "modifyrelationship [Sim 1 first name] [Sim 1 last name] [Sim 2 first name] [Sim 2 last name] [#] Friendship_Main",
+                "effect": "Adds friendship between two Sims."
+            },
+            {
+                "cheat": "modifyrelationship [Sim 1 first name] [Sim 1 last name] [Sim 2 first name] [Sim 2 last name] [#] Romance_Main",
+                "effect": "Adds romance between two Sims."
+            }
+        ],
+        "Build and Buy Cheats": [
+            {
+                "cheat": "bb.moveobjects",
+                "effect": "Placement rules no longer apply when moving objects in Build Mode."
+            },
+            {
+                "cheat": "bb.ignoregameplayunlocksentitlement",
+                "effect": "Unlocks all career reward items in Buy Mode."
+            },
+            {
+                "cheat": "Click + Shift + ]",
+                "effect": "Increases the size of an object."
+            },
+            {
+                "cheat": "Click + Shift + [",
+                "effect": "Decreases the size of an object."
+            },
+            {
+                "cheat": "bb.showhiddenobjects",
+                "effect": "Adds extra objects in Buy Mode."
+            },
+            {
+                "cheat": "bb.showliveeditobjects",
+                "effect": "Adds even more objects (requires bb.showhiddenobjects for it to work)."
+            },
+            {
+                "cheat": "bb.enablefreebuild",
+                "effect": "Allows you to edit the hospital, police station, science lab in Sims 4 Get to Work and the Magic HQ in Sims 4 Realm of Magic."
+            },
+            {
+                "cheat": "FreeRealEstate [on/off]",
+                "effect": "Use the cheat in Neighborhood/World view to make all lots free."
+            }
+        ],
+        "Death Cheats": [
+            {
+                "cheat": "Death.toggle",
+                "effect": "Disables death in the game."
+            },
+            {
+                "cheat": "traits.equip trait Ghost_[cause of death]",
+                "effect": "Turns your Sim into a ghost depending on how they died."
+            },
+            {
+                "cheat": "traits.remove_trait Ghost_[cause of death]",
+                "effect": "Brings your Sim back to life after being a ghost."
+            }
+        ],
+        "Shift + Click Cheats": [
+            {
+                "cheat": "Reset Object",
+                "effect": "Resets the selected Sim that might be buggy or stuck."
+            },
+            {
+                "cheat": "Add to Family/Remove from Family",
+                "effect": "Adds or removes selected Sim to/from a household."
+            },
+            {
+                "cheat": "Modify in CAS",
+                "effect": "Edit your Sim (outfit, hair, etc.) You can make more in-depth changes by entering cas.fulleditmode in the console."
+            },
+            {
+                "cheat": "Cheat Need > Make Happy",
+                "effect": "Fills and puts all motive bars back in the green."
+            },
+            {
+                "cheat": "Cheat Need > Disable Need Decay",
+                "effect": "Stops motive bars from decreasing."
+            },
+            {
+                "cheat": "Cheat Need > Enable Need Decay",
+                "effect": "Sims needs will go up and down normally."
+            },
+            {
+                "cheat": "Marriage > Clear Marriage",
+                "effect": "The selected Sim's marriage will be over, but the relationship will still be intact."
+            },
+            {
+                "cheat": "Make into Plant Sim",
+                "effect": "Immediately transforms your Sim into a 'plant' person."
+            },
+            {
+                "cheat": "Public Image (with Sims 4 Get Famous)",
+                "effect": "Lets you set a good or bad reputation, increase celebrity level or add fame quirks."
+            },
+            {
+                "cheat": "University Debug Menu (with Sims 4 University)",
+                "effect": "Lets you enroll in college without applying."
+            },
+            {
+                "cheat": "Sunbathing Options (with Sims 4 Island Living)",
+                "effect": "This allows your Sim to automatically become tanned, sunburnt, keep their tan, or remove a sunburn or tan."
+            }
+        ],
+        "Shift + Click on Object Cheats": [
+            {
+                "cheat": "Reset Object",
+                "effect": "Resets the object."
+            },
+            {
+                "cheat": "Make Dirty",
+                "effect": "The object will become dirty."
+            },
+            {
+                "cheat": "Make Clean",
+                "effect": "The object will become clean."
+            }
+        ]
+    }
+}
